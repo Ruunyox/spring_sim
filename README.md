@@ -1,5 +1,7 @@
 # Spring Simulation
+<center>
 ![results](results.png)
+<center/>
 ### Modeling a harmonic system with Coulomb Friction
 This is a simple example of the numerical euler stepping method to solving
 differential equations. It has been designed for educational use in
