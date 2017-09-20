@@ -1,4 +1,5 @@
 # Spring Simulation
+![results](./results.pdf)
 ### Modeling a harmonic system with Coulomb Friction
 #### Usage
 ```
