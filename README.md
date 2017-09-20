@@ -8,7 +8,7 @@
 
 ---
 
-### Modeling a harmonic system with Coulomb Friction
+### Modeling a harmonic system with Coulomb friction:
 This is a simple example of the numerical euler stepping method to solving
 differential equations. It has been designed for educational use in
 computational physics courses. 
