@@ -1,6 +1,6 @@
 # Spring Simulation
 <center>
-![results](results.png)
+<img src="results.png" />
 <center/>
 ### Modeling a harmonic system with Coulomb Friction
 This is a simple example of the numerical euler stepping method to solving
